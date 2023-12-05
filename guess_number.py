@@ -1,3 +1,7 @@
+#dibuat oleh Fajar Wahyu Suryaputra
+#NIM 4.33.23.1.08
+#untuk tugas jobsheet 13
+
 def guess_number():
     secret_number = 9
     guess = 0
